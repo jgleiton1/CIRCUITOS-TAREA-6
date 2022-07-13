@@ -14,7 +14,7 @@
 
    **1.1. Objetivo General** 
    
-- Investigar sobre "Circuitos en serie - paralelo" y "Teorema de circuitos y conversiones", mediante el libro establecido en hora de clase "Principios de circuitos electricos de Floyd" para lograr una mejor comprensión de la materia durante el periodo de mayo a septiembre del 2022.
+- Investigar sobre "Introduccion a la corriente y al voltaje alternos" y "Capacitores", mediante el libro establecido en hora de clase "Principios de circuitos electricos de Floyd" para lograr una mejor comprensión de la materia durante el periodo de mayo a septiembre del 2022.
 
 ***
 
@@ -30,17 +30,53 @@
 
 **2. Marco Teórico**
 
-Capitulo 9
+Capitulo 11
 
-Capitulo 10
+11–1 La forma de onda sinusoidal
+
+11–2 Fuentes de voltaje sinusoidal
+
+11–3 Valores sinusoidales de voltaje y corriente
+
+11–4 Medición angular de una onda seno
+
+11–5 La fórmula de la onda seno
+
+11–6 Introducción a los fasores
+
+11–7 Análisis de circuitos de CA
+
+11–8 Voltajes superpuestos de CD y de CA
+
+11–9 Formas de onda no sinusoidales
+
+11–10 El osciloscopio
+
+Capitulo 12
+
+12–1 El capacitor básico
+
+12–2 Tipos de capacitores
+
+12–3 Capacitores en serie
+
+12–4 Capacitores en paralelo
+
+12–5 Capacitores en circuitos de CD
+
+12–6 Capacitores en circuitos de CA
+
+12–7 Aplicaciones de los capacitores
+
+12–8 Circuitos de capacitor conmutados
 
 ***
 
 **3. Explicacion y resolucion de ejercicios o problemas**
 
-Capítulo 9
+Capítulo 11
 
-Capitulo 10
+Capitulo 12
 
 ***
 

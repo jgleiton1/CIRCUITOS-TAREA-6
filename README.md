@@ -846,6 +846,8 @@ R= 1/fC=1/(100 pF)( 8 kHz)=1.25MΩ
 
 **4. Vídeo**
 
+https://www.youtube.com/watch?v=tr67xagCm1Q
+
 ***
 
 **5. Conclusiones**

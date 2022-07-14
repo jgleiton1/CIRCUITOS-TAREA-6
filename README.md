@@ -850,11 +850,25 @@ R= 1/fC=1/(100 pF)( 8 kHz)=1.25MΩ
 
 **5. Conclusiones**
 
-La introducción a la corriente y al voltaje alternos explica lo que es la forma de onda sinuidal u onda seno, en la cual se puede analizar el periodo, la polaridad , frecuencia , a la vez se puede encontrar o establecer la relación entre frecuencia y periodo, además se encuentra varias fuentes de voltaje sinuidal como un generador de CA, del mismo modo se puede calcular los valores de corriente y voltaje  instantaneo, pico, pico a pico y el valor promedio . 
+- La introducción a la corriente y al voltaje alternos explica lo que es la forma de onda sinuidal u onda seno, en la cual se puede analizar el periodo, la polaridad , frecuencia , a la vez se puede encontrar o establecer la relación entre frecuencia y periodo, además se encuentra varias fuentes de voltaje sinuidal como un generador de CA, del mismo modo se puede calcular los valores de corriente y voltaje  instantaneo, pico, pico a pico y el valor promedio . 
 
-Al respecto de los capacitores se conoce lo que es los tipos de capacitores , el capacitor básico , los capacitores en serie, en circuito de CD y CA  además de las aplicaciones que conlleva , es de gran importancia para poder analizar el circuito y obtener el capacitor total aplicando formulas, puesto uqe no solo se puede encontrar el total o el valor de una en específico. 
+- Como conclusión cuando se conectan capacitores en serie, la capacitancia total es menor que el valor de la capacitancia más pequeña, esto se debe a que la separación efectiva entre las placas se incrementa. Para calcular la capacitancia total en serie se lo realiza de igual manera que la resistencia total de resistores dispuestos en paralelo.
 
-Cada circuito es diferente por lo tanto el analisis es distinto, por ello se debe observar de manera correcta cada ejercicio para aplicar las formulas ¿, puesto que en este caso se encuentran presentes las formulas de frecuencia, periodo la de reactancia, entre otras, las cuales facilitan la resolución pero si se las aplica de manera correcta en cada  uno de los ejercicios según lo que se necesite obtener. 
+- También se tiene que cuando se conectan capacitores en paralelo, la capacitancia total es la suma de las capacitancias individuales, esto se debe a que el área de las placas se incrementa. Para realizar el cálculo de la capacitancia total en paralelo, se lo realiza de la misma manera de la resistencia total en serie.
+
+- Las gráficas de las ondas seno permiten la fácil comprensión del comportamiento de la corriente alterna y el voltaje alterno, además, al analizar la gráfica se pueden identificar todos los tipos de valores del voltaje alterno y de la corriente alterna.
+
+- Los fasores son vectores que permiten la representación de cantidades que cambian respecto al tiempo, también, son importantes para el análisis del voltaje instantaneo y corriente instantánea.
+
+- Dentro del análisis de circuitos de ca tenemos que la potencia en circuitos de ca resistivos se determina del mismo modo que para circuitos de cd, excepto que se deben utilizar valores rms de corriente y voltaje.
+
+- Los capacitores son capaces de guardar carga eléctrica durante mucho tiempo después de que se corta la corriente en un circuito.
+
+- Un capacitor o también conocido como condensador es un dispositivo capaz de almacenar energía a través de campos eléctricos (uno positivo y uno negativo), se clasifica dentro de los componentes pasivos ya que no tiene la capacidad de amplificar o cortar el flujo eléctrico.
+
+- Al respecto de los capacitores se conoce lo que es los tipos de capacitores , el capacitor básico , los capacitores en serie, en circuito de CD y CA  además de las aplicaciones que conlleva , es de gran importancia para poder analizar el circuito y obtener el capacitor total aplicando formulas, puesto uqe no solo se puede encontrar el total o el valor de una en específico. 
+
+- Cada circuito es diferente por lo tanto el analisis es distinto, por ello se debe observar de manera correcta cada ejercicio para aplicar las formulas ¿, puesto que en este caso se encuentran presentes las formulas de frecuencia, periodo la de reactancia, entre otras, las cuales facilitan la resolución pero si se las aplica de manera correcta en cada  uno de los ejercicios según lo que se necesite obtener. 
 
 ***
 
